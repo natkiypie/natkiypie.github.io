@@ -47,6 +47,10 @@
   padding: 20px;
 }
 
+.image {
+  padding: 20px;
+}
+
 @media screen and (max-width: 700px) {
   .row {
     flex-direction: column;

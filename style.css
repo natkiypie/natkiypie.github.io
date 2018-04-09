@@ -1,7 +1,7 @@
 .header {
   padding: 80px;
   text-align: center;
-  background: #515151;
+  background: #000000;
   color: white;
 }
 
@@ -12,17 +12,21 @@
 .navbar {
   overflow: hidden;
   text-align: center;
-  background-color: #000000;
+  background-color: #515151;
   color: white;
 }
 
 .navbar a {
-  float: right;
+  float: left;
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 20px;
+  padding: 14px 80px;
   text-decoration: none;
+}
+
+.navbar a.right {
+  float: right;
 }
 
 .navbar a:hover {

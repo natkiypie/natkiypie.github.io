@@ -54,6 +54,16 @@
   text-align: center;
 }
 
+.main a {
+  color: #000000;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.main a:hover {
+  color: #aaaaaa;
+}
+
 .image {
   padding: 20px;
 }

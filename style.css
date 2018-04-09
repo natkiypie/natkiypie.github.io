@@ -1,10 +1,21 @@
 .header {
   padding: 80px;
   text-align: center;
-  background: #000000;
+  background: #515151;
   color: white;
 }
 
 .header h1 {
   font-size: 40px;
+}
+
+.navbar {
+  overflow: hidden;
+  text-align: center;
+  background-color: #000000;
+  color: white;
+}
+
+.navbar {
+  font-size: 12px;
 }

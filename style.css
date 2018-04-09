@@ -45,6 +45,13 @@
   flex: 70%;
   background-color: white;
   padding: 20px;
+  height: 1000px;
+  overflow: scroll;
+}
+
+.main h2 {
+  padding: 20px;
+  text-align: center;
 }
 
 .image {
